@@ -3,8 +3,6 @@ date: '2024-12-29T17:12:16+08:00'
 title: 'Insights Gained from AI-Assisted Programming'
 ---
 
-## Insights Gained from AI-Assisted Programming
-
 Recently, I have been extensively using AI to assist with programming. Here are a few key points to discuss:
 
 1. The current capabilities of AI-assisted programming
