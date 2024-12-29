@@ -1,0 +1,6 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Average Engineer
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
