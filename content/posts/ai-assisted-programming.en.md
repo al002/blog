@@ -83,6 +83,8 @@ This is why we shouldn't worry about AI replacing humans. Instead, we should use
 
 In the future, a programmer with 3-5 years of experience might have the skill level of someone with 10 years of experience today, as everything is accelerating.
 
+AI/acc.
+
 ### Conclusion
 
 - Frequently use AI to develop projects and learn knowledge, architecture, and practices from it.
