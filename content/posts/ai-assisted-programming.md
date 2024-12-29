@@ -1,6 +1,5 @@
 ---
 date: '2024-12-29T17:12:16+08:00'
-draft: true
 title: 'Insights Gained from AI-Assisted Programming'
 ---
 
