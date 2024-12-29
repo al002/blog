@@ -4,3 +4,17 @@ title: Average Engineer
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    disabled: false
+    languageCode: en-US
+    weight: 1
+
+  zh:
+    disabled: false
+    contentDir: content/posts/chinese
+    languageCode: zh-CN
+    weight: 2

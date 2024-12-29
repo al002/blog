@@ -11,7 +11,7 @@ Recently, I have been extensively using AI to assist with programming. Here are 
 
 ### Current Capabilities
 
-From my experience, using tools like Claude Sonnet 3.5, AI can handle tasks ranging from project setup to specific feature development. The code it generates is comparable to that of a mid-level engineer with 3-5 years of experience. With more detailed requirements, the output can be even more structured and aligned with common software engineering practices.
+From my experience, using tools like Claude 3.5 Sonnet, AI can handle tasks ranging from project setup to specific feature development. The code it generates is comparable to that of a mid-level engineer with 3-5 years of experience. With more detailed requirements, the output can be even more structured and aligned with common software engineering practices.
 
 If we stop here without any caveats, it's easy to draw an anxiety-inducing conclusion: Is AI going to replace programmers? This is an irresponsible statement because it doesn't specify the timeline or the exact process of replacement. What aspects will AI replace? Can it autonomously complete all tasks with just a brief description from us?
 
