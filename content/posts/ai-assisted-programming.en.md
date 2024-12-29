@@ -38,6 +38,9 @@ Thus, in the AI era, the skill level of developers significantly influences the 
 
 This is why GitHub Copilot is aptly named "Copilot" and not "Pilot." The real driver is the human, and AI is just another tool.
 
+However, if the programmer is unfamiliar with the problem domain or unsure of the solution approach, the AI-generated code might be less usable. Issues such as library version compatibility or incorrect problem-solving strategies may arise. In such cases, human guidance is essential to direct the AI on where to start looking for issues and what potential problems to consider. Relying solely on AI to solve problems by reading code is currently unlikely to identify the critical points, leading to unresolved issues. This may improve in the future.
+
+
 ### How We Can Leverage AI
 
 Continuing from the previous example, does this mean that junior developers or those unfamiliar with certain areas will be replaced by AI? Not entirely. AI can serve as a comprehensive teacher, explaining concepts like the purpose of a refresh_token.
